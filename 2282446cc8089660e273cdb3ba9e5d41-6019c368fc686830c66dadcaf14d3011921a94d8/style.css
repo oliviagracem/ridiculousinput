@@ -1,0 +1,15 @@
+.container {
+  background: rgba (0,0,0,0);
+  width: 300px;
+  margin: 0 auto;
+  padding: 30px;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align:left;
+}
+.bold {
+  font-weight:bold;
+}
